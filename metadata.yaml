@@ -1,5 +1,5 @@
 _repo: Germania_53266
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Hidén, K. J. (Karl Julius)
@@ -10,6 +10,9 @@ contributor:
     birthdate: 1867
     gutenberg_agent_id: '47283'
     url: http://www.gutenberg.org/2009/agents/47283
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tacitus, Cornelius
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2591
     wikipedia: http://en.wikipedia.org/wiki/Tacitus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53266#Germania
 gutenberg_issued: '2016-10-12'
 gutenberg_type: Text
 identifiers:
